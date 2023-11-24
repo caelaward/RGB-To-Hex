@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    border:solid;
+    text-align: center;
+    margin-left:25%;
+    margin-top: 10%;
+    background-color:lightgray;
+    justify-content: center;
+    width:50%;
+    color:rgb(25, 21, 75);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    
+} 
+
+input{
+    width:50%;
+    height:20px;
+    text-align: center;
+    border-radius: 1%;
+}
+
+
+    .btn{
+        
+        width:20%;
+        margin-bottom: 20px;
+    }
+
+   
